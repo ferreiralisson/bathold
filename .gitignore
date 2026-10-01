@@ -1,0 +1,17 @@
+.build/
+.swiftpm/
+.DS_Store
+dist/
+artifacts/*.json
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.key
+*.pem
+*.mobileprovision
+*.log
+.vscode/
+.idea/
+xcuserdata/
